@@ -1,0 +1,19 @@
+{
+  "name": "teachable-machine-tutorial",
+  "version": "1.0.0",
+  "description": "It is a repository to learn how to create teachable machine",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PatrickAngrezani/teachable-machine-tutorial.git"
+  },
+  "author": "Patrick Angrezani",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/PatrickAngrezani/teachable-machine-tutorial/issues"
+  },
+  "homepage": "https://github.com/PatrickAngrezani/teachable-machine-tutorial#readme"
+}
