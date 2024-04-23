@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/PatrickAngrezani/teachable-machine-tutorial/issues"
   },
-  "homepage": "https://github.com/PatrickAngrezani/teachable-machine-tutorial#readme"
+  "homepage": "https://github.com/PatrickAngrezani/teachable-machine-tutorial#readme",
+  "dependencies": {
+    "node": "^18.20.2"
+  }
 }
